@@ -22,8 +22,8 @@ This project explores a dataset of scooter rentals and analyzes how weather and 
 
 ## 📁 Files
 - [`scooter_analysis.py`](scooter_analysis.py) – Python script
-- [`scooter_analysis_report.pdf`](scooter_analysis_report.pdf) – PDF of Jupyter Notebook
 - [`scooter_analysis.ipynb`](scooter_analysis.ipynb) – Jupyter Notebook version
+- [`scooter_analysis_report.pdf`](./scooter_analysis_report.pdf) – PDF of Jupyter Notebook (must be downloaded)
 
 ## 🤖 Model Summary
 The regression equation: rentals_total = 1327.93 + (6463.97 * temp_norm)
