@@ -1,4 +1,6 @@
 # 🛴 Scooter Rental Data Analysis
+**Author:** Logan Kaliba  
+**Date:** March 6, 2025
 
 This project explores a dataset of scooter rentals and analyzes how weather and time-related features affect ridership. It includes visualizations and a simple linear regression model to predict scooter demand (rentals_totals) during specific weather conditions (temp_norm).
 
