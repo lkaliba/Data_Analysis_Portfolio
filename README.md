@@ -1,6 +1,6 @@
 # 📊 Data Analysis Portfolio
 
-Welcome to my data analysis portfolio! This repository showcases a variety of projects where I use Excel, Python, Tableau, and SQL, including data cleaning, visualization, and machine learning.
+Welcome to my data analysis portfolio! This repository showcases various projects that use tools such as Excel, Python, Tableau, and SQL for data cleaning, visualization, and machine learning.
 
 ## 🔍 Projects
 
