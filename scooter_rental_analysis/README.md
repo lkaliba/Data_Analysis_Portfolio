@@ -21,9 +21,9 @@ This project explores a dataset of scooter rentals and analyzes how weather and 
 - **Linear Regression Model** was able to predict rentals based on temperature with a reasonable R² score (0.37)
 
 ## 📁 Files
-- [`scooter_analysis.py`](scooter_analysis.py) – Python script
-- [`scooter_analysis.ipynb`](scooter_analysis.ipynb) – Jupyter Notebook version
-- [`scooter_analysis_report.pdf`](./scooter_analysis_report.pdf) – PDF of Jupyter Notebook (must be downloaded)
+- [`scooter_analysis.py`](./scooter_analysis.py) – Python script
+- [`scooter_analysis.ipynb`](https://nbviewer.org/github/lkaliba/Data_Analysis_Portfolio/blob/main/scooter_rental_analysis/scooter_analysis.ipynb) – Jupyter Notebook version [view the notebook on NBViewer]
+- [`scooter_analysis_report.pdf`](./scooter_analysis_report.pdf) – PDF of Jupyter Notebook [must be downloaded]
 
 ## 🤖 Model Summary
 The regression equation: rentals_total = 1327.93 + (6463.97 * temp_norm)
