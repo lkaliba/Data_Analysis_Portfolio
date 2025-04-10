@@ -3,7 +3,7 @@
 **Date:** February 13, 2025
 
 ## 🧠 Project Overview
-As a data analyst at a taxi company, I was tasked with analyzing whether there's a significant difference in the **average tip amount** between **yellow cabs** and **green cabs** in New York City. This project uses a **2-sample t-test** to determine statistical significance.
+This project aims to analyze whether there's a significant difference in the **average tip amount** between **yellow cabs** and **green cabs** in New York City. This project uses a **2-sample t-test** to determine statistical significance.
 
 ## 🔍 Tools Used
 - Python (Pandas, SciPy, Seaborn)
