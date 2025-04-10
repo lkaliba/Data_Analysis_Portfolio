@@ -27,7 +27,7 @@ This project explores a dataset of scooter rentals and analyzes how weather and 
 ) – PDF of Jupyter Notebook [must be downloaded]
 
 ## 🤖 Model Summary
-The regression equation: rentals_total = 1327.93 + (6463.97 * temp_norm)
+The regression equation: rentals_total = 1,327.93 + (6,463.97 * temp_norm)
 
 The model can estimate scooter rental demand based on weather temperature.
 
