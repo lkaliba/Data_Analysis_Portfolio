@@ -9,6 +9,10 @@ Welcome to my data analysis portfolio! Each project below demonstrates my experi
 **Skills Demonstrated:** Data cleaning, correlation, regression modeling, and visual storytelling.  
 👉 [View Project](./scooter_rental_analysis)
 
----
+### 2. 🚕 Taxi Tip Comparison  
+**Goal:** Use statistical analysis to determine if there's a significant difference in average tip amount between green and yellow taxis in NYC.  
+**Skills Demonstrated:** Hypothesis testing, normality testing, 2-sample t-tests, SciPy usage, and statistical interpretation.  
+👉 [View Project](./taxi_tip_analysis)
 
+---
 More projects coming soon!
