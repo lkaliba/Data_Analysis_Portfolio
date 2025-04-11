@@ -16,5 +16,11 @@ Welcome to my data analysis portfolio! Each project below demonstrates my experi
 **Skills Demonstrated:** Hypothesis testing, normality testing, 2-sample t-tests, SciPy usage, and statistical interpretation.  
 👉 [View Project](./taxi_tip_analysis)
 
+### 3. 🏠 Mortgage Loan Bias Analysis  
+**Goal:** Explore racial bias in mortgage loan approvals using real data and a 2-sample t-test in Excel. 
+**Tools Used:** Excel, Powerpoint
+**Skills Demonstrated:** Excel analytics, hypothesis testing, 2-sample t-tests, storytelling through presentation.  
+👉 [View Project](./mortgage_bias_analysis)
+
 ---
 More projects coming soon!
