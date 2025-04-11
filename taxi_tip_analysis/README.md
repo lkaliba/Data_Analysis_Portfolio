@@ -25,7 +25,7 @@ This project aims to analyze whether there's a significant difference in the **a
 - [`taxi_tip_analysis.py`](./taxi_tip_analysis.py) – Clean Python script version
 - [`taxi_tip_analysis.ipynb`](https://nbviewer.org/github/lkaliba/Data_Analysis_Portfolio/blob/main/taxi_tip_analysis/taxi_tip_analysis.ipynb) – Full notebook analysis [view notebook on NBViewer]    
 - [`taxi_tip_report.pdf`](https://raw.githubusercontent.com/lkaliba/Data_Analysis_Portfolio/main/taxi_tip_analysis/taxi_tip_report.pdf
-) – Exported notebook for easy viewing [must be downloaded]  
+) – Exported notebook for easy viewing   
 
 ## 💡 What I Learned
 - How to conduct a proper 2-sample t-test in Python  
