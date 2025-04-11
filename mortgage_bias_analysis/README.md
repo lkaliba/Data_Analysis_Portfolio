@@ -1,8 +1,6 @@
 # 🏠 Mortgage Loan Bias Analysis
 **Author:** Logan Kaliba  
 **Date:** June 2021  
-**Tools:** Excel, PowerPoint  
-**Topic:** Racial bias in loan approval (Home Mortgage Disclosure Act)
 
 ## 📌 Project Overview
 This project investigates whether African Americans are disproportionately denied mortgage loans compared to white non-Hispanic applicants. Using a cleaned dataset derived from the Home Mortgage Disclosure Act (HMDA), I explored approval rates across race and income level and used a **two-sample t-test** to test for significant bias.
@@ -24,6 +22,11 @@ At a **95% confidence level**, the statistical test found **significant evidence
 - `Mortgage Bias Analysis - Workbook.xlsx` – Full data analysis workbook    
 - `Mortgage Bias Analysis - Presentation.pptx` – Final presentation for a general audience
 
+## ✅ What I Learned
+- How to apply statistics in Excel
+- How to explore real-world equity issues
+- How to communicate insights through storytelling.
+
 ---
 
-📌 *This project demonstrates my ability to apply statistics in Excel, explore real-world equity issues, and communicate insights through storytelling.*
+📌 *For more projects, check out the main portfolio: [Back to Portfolio](../README.md)*
