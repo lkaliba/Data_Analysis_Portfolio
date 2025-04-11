@@ -19,8 +19,8 @@ This project investigates whether African Americans are disproportionately denie
 At a **95% confidence level**, the statistical test found **significant evidence** that African Americans were denied loans more often than their white counterparts — even after accounting for income level.
 
 ## 📁 Files Included
-- [`Mortgage Bias Analysis - Workbook.xlsx`](./Mortgage_Bias_Analysis_-_Workbook.xlsx) – Full data analysis workbook    
-- [`Mortgage Bias Analysis - Presentation.pptx`](./Mortgage_Bias_Analysis_-_Presentation.pptx) – Final presentation for a general audience
+- [`Mortgage Bias Analysis - Workbook.xlsx`](https://raw.githubusercontent.com/lkaliba/Data_Analysis_Portfolio/main/mortgage_bias_analysis/Mortgage_Bias_Analysis_-_Workbook.xlsx) – Full data analysis workbook    
+- [`Mortgage Bias Analysis - Presentation.pptx`](https://raw.githubusercontent.com/lkaliba/Data_Analysis_Portfolio/main/mortgage_bias_analysis/Mortgage_Bias_Analysis_-_Presentation.pptx) – Final presentation for a general audience
 
 ## ✅ What I Learned
 - How to apply statistics in Excel
