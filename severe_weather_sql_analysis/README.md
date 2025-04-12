@@ -1,4 +1,4 @@
-# 🌪️ Severe Weather SQL Analysis
+# 🌪️ Severe Weather Analysis
 **Author:** Logan Kaliba  
 **Date:** March 22, 2025
 
