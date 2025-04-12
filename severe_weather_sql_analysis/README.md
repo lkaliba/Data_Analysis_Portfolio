@@ -35,7 +35,7 @@ Each question required thoughtful use of SQL joins, window functions, case state
 
 ## 📁 Files Included
 - `severe_weather_sql_analysis.md` – All SQL queries  
-- `severe_weather_sql_analysis.xlsx` – Query results and summaries  
+- [`severe_weather_sql_analysis.xlsx`](https://raw.githubusercontent.com/lkaliba/Data_Analysis_Portfolio/main/severe_weather_sql_analysis/severe_weather_sql_analysis.xlsx) – Query results and summaries  
 
 ## ✅ What I Learned
 - How to manage complex data workflows in SQL
