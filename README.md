@@ -22,5 +22,11 @@ Welcome to my data analysis portfolio! Each project below demonstrates my experi
 **Skills Demonstrated:** Excel analytics, hypothesis testing, 2-sample t-tests, storytelling through presentation.  
 👉 [View Project](./mortgage_bias_analysis)
 
+### 4. 🌪️ Severe Weather Analysis  
+**Goal:** Analyze storm event data to answer operational and spatial questions using SQL.  
+**Tools Used:** Snowflake (SQL), Excel  
+**Skills Demonstrated:** Window functions, CTEs, case statements, S3 staging, public data analysis  
+👉 [View Project](./severe_weather_sql_analysis)
+
 ---
 More projects coming soon!
