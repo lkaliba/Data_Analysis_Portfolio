@@ -1,0 +1,81 @@
+/* What % of orders were returned? (This is the "return rate".)
+An order was returned, if it has a "returned" status.
+Round to one decimal place. For example, 13.76% should be entered as 13.8.
+Answer: 10.0 or 10% */
+
+SELECT status, COUNT(order_id) AS Num_of_Returned_Orders, ROUND((COUNT(order_id) / 124877) * 100, 1) AS Return_Rate
+FROM orders
+WHERE status = 'Returned'
+GROUP BY status;
+
+/* How does this return rate compare to the industry average? */
+According to Capital One Shopping's research department, the average return rate was 13.2% in 2024 for the U.S. retail industry (including online and brick-and-mortar stores) (Capital One Shopping, 2025). That means Urban Hamster's return rate is 3.2% below the industry average and 24% lower than the national average (3.2 / 13.2 = 24.2). Postively, this suggests Urban Hamster is doing well in terms of return management.
+
+Works cited:
+“Average Retail Return Rate (2025 Data): ECommerce VS in-Store.” Capital One Shopping, Capital One Shopping Research Department, 6 May 2025, capitaloneshopping.com/research/average-retail-return-rate/#:~:text=WV%20%7C%20WI%20%7C%20WY-,Retail%20Return%20Rates,the%20carrier%20to%20mail%20back.
+
+/* Has the return rate increased between 2019 and 2023? Yes */
+SELECT 
+    EXTRACT(YEAR FROM created_at) AS "Year",
+    COUNT(order_id) AS Total_Orders,
+    COUNT(CASE WHEN status = 'Returned' THEN 1 END) AS Returned_Orders,
+    ROUND(Returned_Orders / COUNT(order_id) * 100, 1) AS Return_Rate
+FROM orders
+GROUP BY "Year"
+ORDER BY "Year";
+
+/* Which three product categories have the highest return rates? Pants, Leggings, Socks & Hosiery */
+SELECT
+p.category,
+COUNT(ot.order_id) AS Total_Orders,
+COUNT(CASE WHEN o.status = 'Returned' THEN 1 END) AS Returned_Orders,
+ROUND((Returned_Orders / Total_Orders) * 100, 1) AS Return_Rate
+
+
+FROM products p
+INNER JOIN order_items ot ON p.product_id = ot.product_id
+INNER JOIN orders o ON ot.order_id = o.order_id
+
+GROUP BY p.category
+ORDER BY Return_Rate DESC;
+
+/* How much revenue was lost on returns? $1,088,903.82 */
+SELECT
+SUM(ot.sale_price) AS Lost_Revenue
+
+FROM order_items ot
+INNER JOIN orders o 
+ON ot.order_id = o.order_id
+
+WHERE o.status = 'Returned';
+
+We recognize that we have a strict return policy. How might that policy be
+impacting our sales, reputation, and return rate? Given those impacts, what
+changes would you recommend to that policy?
+
+When answering this question, there will NOT be one right or wrong answer. However, you should be able to justify
+your reasoning and recommendations using one or more reliable sources. (Be sure to cite* your sources.) You might
+also choose to reference the policies of other, similar companies. 
+
+Answer:
+While Urban Hamster has managed return rates relatively well overall (with a 2024 rate of 10.2% compared to the 13.2% U.S. retail average), its strict return policy may be quietly undermining broader business performance. Specifically, the policy could be suppressing sales as customers may be deterred from finalizing purchases due to the increased perceived risk. A short return window or restrictive conditions can reduce buyer confidence, especially for first-time shoppers who aren't sure about the product they are purchasing (Raz, 2017). It could also be hurting the company's reputation; while we would need customer review data to confirm this, it’s common for strict policies to lead to frustration, negative online feedback, and reduced customer loyalty over time (Returnalyze, 2023). The return policy could also be a contributing factor to our recent return rate increases. Though still lower than the national average, our return rate has edged up from 9.2% in 2019 to 10.2% in 2024, possibly indicating shifting customer expectations or dissatisfaction with the current process.
+
+Recommended Policy Changes:
+To improve the customer experience, preserve sales momentum, and stay competitive with industry standards, I recommend the following adjustments:
+
+1. Extend the return window from 14 days to 30 days, giving customers more time to evaluate their purchase without pressure.
+
+2. Relax condition requirements slightly: Instead of demanding items be unworn with tags still attached, we could allow returns for items in "good condition" or "resalable condition", which is more customer-friendly while still protecting product integrity.
+
+3. Cover return shipping costs and simplify the process: Industry leaders like Amazon offer free returns and handle packaging at drop-off locations (Amazon.com, Inc., 2025). Adopting similar practices — such as scannable return barcodes at UPS or USPS — would reduce friction and improve trust.
+
+4. Implement online return requests: Allowing customers to request returns through their account (instead of calling customer service) would streamline the process, reduce call volume, and align with modern online retail standards.
+
+These updates wouldn’t just make our return process easier — they could also improve brand reputation, increase customer loyalty, and ultimately boost net sales by reducing cart abandonment and buyer hesitation. Additionally, tracking return reasons and surveying customers who abandon carts could provide valuable insight into how policy changes impact actual behavior over time.
+
+Works Cited:
+Raz, Adi. “How a Strict Retail Return Policy Can Decrease Revenue and Return Rates.” Loss Prevention Media, Loss Prevention Maganizine, 9 Oct. 2017, losspreventionmedia.com/how-a-strict-retail-return-policy-can-decrease-revenue-and-affect-return-rates/#:~:text=Stricter%20return%20rules%20and%20policies%20significantly%20harm%20net%20sales.%20As%20mentioned%20above%2C%20strict%20stores%20showed%20almost%20a%209%20percent%20reduction%20in%20net%20sales%20as%20compared%20to%20friendly%20stores.
+
+“The Power of Policies: How Return Policy Shapes Returns and Sales.” Returnalyze, Returnalyze, 12 Dec. 2023, www.returnalyze.com/blog/the-power-of-policy-how-return-policy-shapes-returns-and-sales#:~:text=A%20rigid%20or%20complicated%20return,can%20tarnish%20a%20brand’s%20reputation.
+
+“Return Items You Ordered - Amazon Customer Service.” Amazon.Com, Amazon.com, Inc., 2025, www.amazon.com/gp/help/customer/display.html?nodeId=G6E3B2E8QPHQ88KF.
