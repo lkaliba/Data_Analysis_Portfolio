@@ -1,4 +1,4 @@
-# Data Analysis Portfolio
+# Logan Kaliba - Data Analysis Portfolio
 
 Welcome to my data analysis portfolio! Each project below demonstrates my experience across different tools, languages, and workflows used to clean, analyze, visualize, and derive insights from data.
 
