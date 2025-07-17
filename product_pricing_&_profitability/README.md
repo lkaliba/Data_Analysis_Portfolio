@@ -34,9 +34,9 @@ These steps are designed to support dynamic pricing strategies while maintaining
 ## Project Files  
 | File | Description |
 |------|-------------|
-| [`Database Setup`](./return_policy_order_analysis/database_setup.sql) | Sets up the Urban Hamster database schema (shared with Return Policy project) |
-| [`SQL Queries`](./product_pricing_&_profitability/SQL_queries.sql) | SQL queries to the business questions |
-| [`Product Pricing Tool (Streamlit App)`](./product_pricing_&_profitability/product_pricing_tool.py) | Python code for interactive pricing tool built using Streamlit |
+| [`Database Setup`](https://github.com/lkaliba/Data_Analysis_Portfolio/blob/main/return_policy_order_analysis/database_setup.sql) | Sets up the Urban Hamster database schema (shared with Return Policy project) |
+| [`SQL Queries`](./SQL_queries.sql) | SQL queries to the business questions |
+| [`Product Pricing Tool (Streamlit App)`](./product_pricing_tool.py) | Python code for interactive pricing tool built using Streamlit |
 
 ## Presentation Videos  
 - [Case Study Presentation: Product Pricing & Profitability](https://go.screenpal.com/watch/cT10XunXJyF)  
