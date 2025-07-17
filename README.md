@@ -27,9 +27,3 @@ Welcome to my data analysis portfolio! Each project below demonstrates my experi
 **Tools Used:** Python  
 **Skills Demonstrated:** Hypothesis testing, normality testing, 2-sample t-tests, SciPy usage, and statistical interpretation.  
 👉 [View Project](./taxi_tip_analysis)
-
-### 5. Severe Weather Analysis  
-**Goal:** Analyze storm event data to answer operational and spatial questions using SQL.  
-**Tools Used:** SQL (Snowflake), Excel  
-**Skills Demonstrated:** Window functions, CTEs, case statements, S3 staging, public data analysis  
-👉 [View Project](./severe_weather_sql_analysis)
