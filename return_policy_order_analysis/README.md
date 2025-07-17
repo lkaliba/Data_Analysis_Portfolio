@@ -1,4 +1,4 @@
-# Urban Hamster: Return Policy & Order Analysis
+# Return Policy & Order Analysis
 **Author:** Logan Kaliba  
 **Date:** May 27, 2025
 
