@@ -10,7 +10,7 @@ Welcome to my data analysis portfolio! Each project below demonstrates my experi
 **Skills Demonstrated:** Excel analytics, hypothesis testing, 2-sample t-tests, storytelling through presentation.  
 👉 [View Project](./mortgage_bias_analysis)
 
-### 2. Urban Hamster: Return Policy & Order Analysis  
+### 2. Return Policy & Order Analysis  
 **Goal:** Investigate customer return behavior and evaluate the return policy for a fictional clothing company using SQL and Tableau.  
 **Tools Used:** SQL (Snowflake), Tableau, PowerPoint  
 **Skills Demonstrated:** Data querying, KPI analysis, business recommendations, dashboard design, stakeholder presentation.  
