@@ -50,3 +50,7 @@ The dashboard visualizes order trends by year, product type, and return status. 
 - How to turn raw SQL data into compelling business narratives  
 - The importance of visual simplicity when communicating technical insights  
 - How to align recommendations with stakeholder concerns (cost, experience, loyalty)  
+
+---
+
+*For more projects, check out the main portfolio: [Back to Portfolio](../README.md)*
