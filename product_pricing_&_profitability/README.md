@@ -5,7 +5,7 @@
 ## Overview  
 This project evaluates pricing strategy and product profitability for a fictional retail company. The goal was to identify deviations from a standardized markup policy, assess sales growth, and recommend strategic pricing adjustments.
 
-Using SQL in Snowflake, I analyzed product-level sales and cost data to determine which SKUs were mispriced and whether any were being sold at a loss. I presented my insights using PowerPoint and developed an interactive pricing tool in Streamlit as a follow-up to simulate markup adjustments and benchmark scenarios.
+Using SQL in Snowflake, I analyzed product-level sales and cost data to determine which SKUs were mispriced and whether any were being sold at a loss. I presented my insights using PowerPoint and developed an interactive pricing tool in Streamlit as a follow-up to help better understand product information.
 
 ## Tools & Technologies  
 - **SQL (Snowflake):** Data querying and profitability analysis  
