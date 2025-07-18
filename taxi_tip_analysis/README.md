@@ -32,3 +32,6 @@ This project aims to analyze whether there's a significant difference in the **a
 - Importance of checking assumptions (normality and variance)  
 - Communicating statistical results in a business-friendly way
 
+---
+
+*For more projects, check out the main portfolio: [Back to Portfolio](../README.md)*
