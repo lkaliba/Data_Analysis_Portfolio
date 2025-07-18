@@ -1,4 +1,4 @@
-# Product Pricing & Profitability Analysis  
+# Product Pricing & Profitability  
 **Author:** Logan Kaliba  
 **Date:** June 29, 2025
 
