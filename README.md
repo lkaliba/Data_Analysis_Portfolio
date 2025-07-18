@@ -2,6 +2,14 @@
 
 Welcome to my data analysis portfolio! Each project below demonstrates my experience across different tools, languages, and workflows used to clean, analyze, visualize, and derive insights from data.
 
+## About Me
+
+Hi! I'm Logan Kaliba — a graduate student with a background in psychology and sociology, now pivoting into the world of data analytics. My journey began with a deep curiosity about how people think and how systems affect them. That eventually led me to data: a powerful way to understand patterns, uncover problems, and tell stories that matter. I’ve developed hands-on experience in Python, SQL, Tableau, and Excel through coursework, projects, and self-study. My focus is on **storytelling through data**, with an interest in projects that promote equity, access, and informed decision-making. I enjoy working on projects that simulate real-world problems and building dashboards and presentations that make insights easy to understand.
+
+I’m currently looking for work opportunities where I can grow my skills, collaborate with a thoughtful team, and contribute to meaningful work. Here is a link to my [CV](https://raw.githubusercontent.com/lkaliba/Data_Analysis_Portfolio/main/Kaliba_Resume.pdf).
+
+Thanks for stopping by!
+
 ## Projects
 
 ### 1. Investigating Mortgage Loan Bias  
