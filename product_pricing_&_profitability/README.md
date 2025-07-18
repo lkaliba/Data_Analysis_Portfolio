@@ -46,3 +46,7 @@ These steps are designed to support dynamic pricing strategies while maintaining
 - How to detect pricing policy violations using SQL logic and arithmetic joins  
 - The role of **data-driven storytelling** in business decision-making  
 - How **interactive tools** like Streamlit can empower real-time what-if scenario testing for business users
+
+---
+
+*For more projects, check out the main portfolio: [Back to Portfolio](../README.md)*
