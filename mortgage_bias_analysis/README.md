@@ -1,4 +1,4 @@
-# Mortgage Loan Bias Analysis
+# Investigating Mortgage Loan Bias
 **Author:** Logan Kaliba  
 **Date:** June 2021  
 
