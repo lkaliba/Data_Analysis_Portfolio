@@ -7,7 +7,7 @@ Welcome to my data analysis portfolio! Each project below demonstrates my experi
 ### 1. Investigating Mortgage Loan Bias  
 **Goal:** Explore racial bias in mortgage loan approvals using real data and a 2-sample t-test in Excel.   
 **Tools Used:** Excel, Powerpoint  
-**Skills Demonstrated:** Excel analytics, hypothesis testing, 2-sample t-tests, storytelling through presentation.  
+**Skills Demonstrated:** Excel analytics, hypothesis testing, 2-sample t-tests, and storytelling through presentation.  
 👉 [View Project](./mortgage_bias_analysis)
 
 ### 2. Return Policy & Order Analysis  
@@ -19,13 +19,13 @@ Welcome to my data analysis portfolio! Each project below demonstrates my experi
 ### 3. Product Pricing & Profitability  
 **Goal:** Evaluate pricing strategy and product profitability for a fictional retailer using sales and cost data.  
 **Tools Used:** SQL (Snowflake), Python (Streamlit), PowerPoint  
-**Skills Demonstrated:** SQL querying, profit margin analysis, pricing strategy, interactive tool development, business presentation  
+**Skills Demonstrated:** SQL querying, profit margin analysis, pricing strategy, and interactive tool development  
 👉 [View Project](./product_pricing_&_profitability)
 
 ### 4. Scooter Rental Data Analysis
 **Goal:** Analyze scooter rentals and predict usage using temperature and other features.  
 **Tools Used:** Python  
-**Skills Demonstrated:** Data cleaning, correlation, regression modeling, and visual storytelling.  
+**Skills Demonstrated:** Data cleaning, correlation, and regression modeling.  
 👉 [View Project](./scooter_rental_analysis)
 
 ### 5. Taxi Tip Comparison  
