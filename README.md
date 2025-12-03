@@ -30,8 +30,6 @@ Thanks for stopping by!
 **Skills Demonstrated:** SQL querying, profit margin analysis, pricing strategy, and interactive tool development  
 👉 [View Project](./product_pricing_&_profitability)
 
-Here’s a matching entry you can add to your main portfolio README, perfectly aligned with the format and tone of your existing projects:
-
 ### 4. Procedure Pricing Optimization Model
 
 **Goal:** Build a Mixed-Integer Linear Programming model to optimize healthcare procedure reimbursement prices while enforcing fairness, regulatory, and provider-specific constraints.
