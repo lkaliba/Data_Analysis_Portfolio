@@ -31,10 +31,9 @@ Thanks for stopping by!
 👉 [View Project](./product_pricing_&_profitability)
 
 ### 4. Procedure Pricing Optimization Model
-
-**Goal:** Build a Mixed-Integer Linear Programming model to optimize healthcare procedure reimbursement prices while enforcing fairness, regulatory, and provider-specific constraints.
-**Tools Used:** Python (Pyomo), CBC Solver, Pandas, Excel, PowerPoint
-**Skills Demonstrated:** Optimization modeling (MILP), data cleaning, fairness constraint design, cost-reduction analysis, Python-based modeling, business insight communication.
+**Goal:** Build a Mixed-Integer Linear Programming model to optimize healthcare procedure reimbursement prices while enforcing fairness, regulatory, and provider-specific constraints.  
+**Tools Used:** Python (Pyomo), PowerPoint  
+**Skills Demonstrated:** Optimization modeling (MILP), data cleaning, fairness constraint design, cost-reduction analysis, Python-based modeling, business insight communication  
 👉 [View Project](./procedure_pricing_opt_model)
 
 ### 5. Scooter Rental Data Analysis
