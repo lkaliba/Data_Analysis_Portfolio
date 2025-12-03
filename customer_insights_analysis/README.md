@@ -1,4 +1,4 @@
-# Urban Hamster: Customer Insights & Marketing Strategy
+# Customer Insights & Marketing Strategy
 
 **Author:** Logan Kaliba  
 **Date:** Jun 2025
