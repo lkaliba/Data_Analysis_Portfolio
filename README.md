@@ -12,37 +12,43 @@ Thanks for stopping by!
 
 ## Projects
 
-### 1. Investigating Mortgage Loan Bias  
+### 1. RUSH: Sales Analysis
+**Goal:** Analyze multi-year retail sales data to uncover category performance, regional trends, and retailer purchasing patterns for a fictional athletic apparel company.  
+**Tools Used:** Python, PowerPoint  
+**Skills Demonstrated:** Data cleaning, descriptive analytics, trend identification, KPI analysis, business recommendations, stakeholder presentation.  
+👉 [View Project](./rush_sales_analysis)
+
+### 2. Investigating Mortgage Loan Bias  
 **Goal:** Explore racial bias in mortgage loan approvals using real data and a 2-sample t-test in Excel.   
 **Tools Used:** Excel, Powerpoint  
 **Skills Demonstrated:** Excel analytics, hypothesis testing, 2-sample t-tests, and storytelling through presentation.  
 👉 [View Project](./mortgage_bias_analysis)
 
-### 2. Return Policy & Order Analysis  
+### 3. Return Policy & Order Analysis  
 **Goal:** Investigate customer return behavior and evaluate the return policy for a fictional clothing company using SQL and Tableau.  
 **Tools Used:** SQL (Snowflake), Tableau, PowerPoint  
 **Skills Demonstrated:** Data querying, KPI analysis, business recommendations, dashboard design, stakeholder presentation.  
 👉 [View Project](./return_policy_order_analysis)
 
-### 3. Product Pricing & Profitability  
+### 4. Product Pricing & Profitability  
 **Goal:** Evaluate pricing strategy and product profitability for a fictional retailer using sales and cost data.  
 **Tools Used:** SQL (Snowflake), Python (Streamlit), PowerPoint  
 **Skills Demonstrated:** SQL querying, profit margin analysis, pricing strategy, and interactive tool development  
 👉 [View Project](./product_pricing_&_profitability)
 
-### 4. Procedure Pricing Optimization Model
+### 5. Procedure Pricing Optimization Model
 **Goal:** Build a Mixed-Integer Linear Programming model to optimize healthcare procedure reimbursement prices while enforcing fairness, regulatory, and provider-specific constraints.  
 **Tools Used:** Python (Pyomo), PowerPoint  
 **Skills Demonstrated:** Optimization modeling (MILP), data cleaning, fairness constraint design, cost-reduction analysis, Python-based modeling, business insight communication  
 👉 [View Project](./procedure_pricing_opt_model)
 
-### 5. Scooter Rental Data Analysis
+### 6. Scooter Rental Data Analysis
 **Goal:** Analyze scooter rentals and predict usage using temperature and other features.  
 **Tools Used:** Python  
 **Skills Demonstrated:** Data cleaning, correlation, and regression modeling.  
 👉 [View Project](./scooter_rental_analysis)
 
-### 6. Taxi Tip Comparison  
+### 7. Taxi Tip Comparison  
 **Goal:** Use statistical analysis to determine if there's a significant difference in average tip amount between green and yellow taxis in NYC.  
 **Tools Used:** Python  
 **Skills Demonstrated:** Hypothesis testing, normality testing, 2-sample t-tests, SciPy usage, and statistical interpretation.  
