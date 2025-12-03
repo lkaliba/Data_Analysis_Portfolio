@@ -16,7 +16,7 @@ The project concludes with a presentation synthesizing insights into a clear mar
 
 ## Business Questions Answered
 
-(queries stored in `data_exploratory_and_analysis.sql`)
+(queries stored in [`data_exploratory_and_analysis.sql`](./data_exploratory_and_analysis.sql))
 
 * How many registered users does Urban Hamster have, and where are they located?
 * What demographic groups spend the most, and who places the most orders?
@@ -56,14 +56,22 @@ Grounded in behavioral data and consumer psychology:
   TikTok & Instagram, influencer content, community-driven messaging, inclusive brand values.
 
 These recommendations are aligned with both internal data and external consumer research.
-*(Full citations included in analysis files.)*
+
+Works Cited:  
+Psychology of Success to Millennial Marketing | USC MAPP Online. (n.d.). https://appliedpsychologydegree.usc.edu/blog/psychology-of-successfully-marketing-to-millennials
+
+Kowalewicz, R. (2021, May 12). Council Post: Three tips for marketing to Generation X. Forbes. https://www.forbes.com/councils/forbesagencycouncil/2021/05/12/three-tips-for-marketing-to-generation-x/
+
+Carter, M., & Carter, M. (2024, June 6). A Guide to Marketing to Baby Boomers - BRK Global Marketing. BRK Global Marketing - Breathing life into brands. Creating excellence through marketing. https://brkmarketing.com/a-simple-guide-for-marketing-to-baby-boomers/
+
+Coray, T. (2024, February 22). Marketing to Generation Z. SheerID. https://www.sheerid.com/business/blog/marketing-to-generation-z/
 
 ## Project Files
 
 | File                                                                                                       | Description                                            |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| `data_exploratory_and_analysis.sql`                                                                        | SQL for data exploration + business question answers   |
-| [`Urban_Hamster_Customer_Insights_Presentation.pptx`](./Urban_Hamster_Customer_Insights_Presentation.pptx) | Slide deck presenting insights and marketing strategy  |
+| [`data_exploratory_and_analysis.sql`](./data_exploratory_and_analysis.sql)                                                                        | SQL for data exploration + business question answers   |
+| [`Urban_Hamster_Customer_Insights_Presentation.pdf`](./Urban_Hamster_Customer_Insights_Presentation.pdf) | Slide deck presenting insights and marketing strategy  |
 
 ## Presentation Video
 
