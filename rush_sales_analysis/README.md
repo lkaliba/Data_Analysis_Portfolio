@@ -52,7 +52,7 @@ These findings highlight strong digital performance and emerging opportunities i
 | File                                                                   | Description                                                            |
 | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
 | [`Analyzing_Sales_Data_Rush.ipynb`](./Analyzing_Sales_Data_Rush.ipynb) | Full Python notebook with data cleaning, analysis, and visualizations  |
-| [`rush_sales_analysis.pptx`](./rush_sales_analysis.pptx)               | Presentation summarizing insights and recommendations                  |
+| [`rush_sales_analysis.pdf`](./rush_sales_analysis.pdf)               | Presentation summarizing insights and recommendations                  |
 
 ## Presentation Video
 
