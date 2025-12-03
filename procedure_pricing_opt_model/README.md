@@ -1,6 +1,7 @@
 # Procedure Pricing Optimization Model
 
 **Author:** Logan Kaliba
+
 **Date:** Nov 3, 2025
 
 ## Overview
