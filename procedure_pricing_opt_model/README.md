@@ -85,8 +85,8 @@ These results show that **MIP optimization offers a scalable, transparent method
 
 | File                                                                                                                   | Description                                                      |
 | ---------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| [`Procedure_Pricing_Optimization_Model_Logan_Kaliba.ipynb`](./Procedure_Pricing_Optimization_Model_Logan_Kaliba.ipynb) | Full Pyomo MILP model, solver setup, and results                 |
-| [`Pricing Optimization Presentation`](./Procedure_Pricing_Optimization_Model_Presentation.pptx)                        | PowerPoint explaining model logic, insights, and recommendations |
+| [`Procedure_Pricing_Optimization_Model`](./Procedure_Pricing_Optimization_Model_Logan_Kaliba.ipynb) | Full Pyomo MILP model, solver setup, and results                 |
+| [`Pricing Optimization Presentation`](./Procedure_Pricing_Optimization_Model_Presentation.pdf)                        | PowerPoint explaining model logic, insights, and recommendations |
 
 ## What I Learned
 
