@@ -30,25 +30,31 @@ Thanks for stopping by!
 **Skills Demonstrated:** Data querying, KPI analysis, business recommendations, dashboard design, stakeholder presentation.  
 👉 [View Project](./return_policy_order_analysis)
 
-### 4. Product Pricing & Profitability  
+### 4. Customer Insights & Marketing Strategy
+**Goal:** Analyze customer demographics, purchasing patterns, and product preferences to identify high-value segments and develop tailored marketing strategies.  
+**Tools Used:** SQL, PowerPoint  
+**Skills Demonstrated:** Data exploration, cohort segmentation, KPI analysis, generational marketing strategy, stakeholder storytelling.  
+👉 [View Project](./customer_insights_analysis)
+
+### 5. Product Pricing & Profitability  
 **Goal:** Evaluate pricing strategy and product profitability for a fictional retailer using sales and cost data.  
 **Tools Used:** SQL (Snowflake), Python (Streamlit), PowerPoint  
 **Skills Demonstrated:** SQL querying, profit margin analysis, pricing strategy, and interactive tool development  
 👉 [View Project](./product_pricing_&_profitability)
 
-### 5. Procedure Pricing Optimization Model
+### 6. Procedure Pricing Optimization Model
 **Goal:** Build a Mixed-Integer Linear Programming model to optimize healthcare procedure reimbursement prices while enforcing fairness, regulatory, and provider-specific constraints.  
 **Tools Used:** Python (Pyomo), PowerPoint  
 **Skills Demonstrated:** Optimization modeling (MILP), data cleaning, fairness constraint design, cost-reduction analysis, Python-based modeling, business insight communication  
 👉 [View Project](./procedure_pricing_opt_model)
 
-### 6. Scooter Rental Data Analysis
+### 7. Scooter Rental Data Analysis
 **Goal:** Analyze scooter rentals and predict usage using temperature and other features.  
 **Tools Used:** Python  
 **Skills Demonstrated:** Data cleaning, correlation, and regression modeling.  
 👉 [View Project](./scooter_rental_analysis)
 
-### 7. Taxi Tip Comparison  
+### 8. Taxi Tip Comparison  
 **Goal:** Use statistical analysis to determine if there's a significant difference in average tip amount between green and yellow taxis in NYC.  
 **Tools Used:** Python  
 **Skills Demonstrated:** Hypothesis testing, normality testing, 2-sample t-tests, SciPy usage, and statistical interpretation.  
