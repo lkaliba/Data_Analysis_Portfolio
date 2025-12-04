@@ -37,26 +37,26 @@ A curated selection of my strongest and most comprehensive work — showcasing S
 
 # 📂 Additional Projects
 
-### 1. RUSH: Sales Analysis
+### 1. Product Pricing & Profitability
+
+**Goal:** Evaluate pricing strategy and product profitability for a fictional retailer using sales and cost data.  
+**Tools Used:** SQL (Snowflake), Python (Streamlit), PowerPoint  
+**Skills Demonstrated:** SQL querying, profit margin analysis, pricing strategy, and interactive tool development.  
+👉 [View Project](./product_pricing_&_profitability)
+
+### 2. RUSH: Sales Analysis
 
 **Goal:** Analyze multi-year retail sales data to uncover category performance, regional trends, and retailer purchasing patterns for a fictional athletic apparel company.  
 **Tools Used:** Python, PowerPoint  
 **Skills Demonstrated:** Data cleaning, descriptive analytics, trend identification, KPI analysis, business recommendations, stakeholder presentation.  
 👉 [View Project](./rush_sales_analysis)
 
-### 2. Investigating Mortgage Loan Bias
+### 3. Investigating Mortgage Loan Bias
 
 **Goal:** Explore racial bias in mortgage loan approvals using real data and a 2-sample t-test in Excel.  
 **Tools Used:** Excel, PowerPoint  
 **Skills Demonstrated:** Excel analytics, hypothesis testing, 2-sample t-tests, and storytelling through presentation.  
 👉 [View Project](./mortgage_bias_analysis)
-
-### 3. Product Pricing & Profitability
-
-**Goal:** Evaluate pricing strategy and product profitability for a fictional retailer using sales and cost data.  
-**Tools Used:** SQL (Snowflake), Python (Streamlit), PowerPoint  
-**Skills Demonstrated:** SQL querying, profit margin analysis, pricing strategy, and interactive tool development.  
-👉 [View Project](./product_pricing_&_profitability)
 
 ### 4. Scooter Rental Data Analysis
 
