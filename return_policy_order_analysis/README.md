@@ -37,6 +37,7 @@ These strategies aim to improve trust, increase retention, and reduce cart aband
 |------|-------------|
 | [`Database Setup`](./database_setup.sql) | Sets up the Urban Hamster database schema |
 | [`SQL Queries`](./SQL_queries.sql) | SQL queries with the answers to my business questions |
+| [`Return Policy Presentation`](./Return_Policy_Case_Study_Presentation.pdf) | Powerpoint presentation explaining analysis and recommendations |
 
 ## Interactive Tableau Dashboard
 **[View the Dashboard (Orders by Brand, Category, and Status)](https://public.tableau.com/views/Ordersby_17488327186010/OrdersDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**    
