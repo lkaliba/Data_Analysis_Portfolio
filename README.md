@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi! I’m Logan Kaliba — a graduate student with a background in psychology and sociology who fell in love with data after realizing how powerful it is for understanding people and the systems around them. What started as curiosity has turned into a passion for using data to tell stories, uncover problems, and support better decision-making.
+Hi! I’m Logan Kaliba - a graduate student with a background in psychology and sociology who fell in love with data after realizing how powerful it is for understanding people and the systems around them. What started as curiosity has turned into a passion for using data to tell stories, uncover problems, and support better decision-making.
 
 I’ve built experience working with Python, SQL, Tableau, and Excel through projects that mirror real-world business problems. I especially enjoy turning messy datasets into insights that are easy to understand, whether through dashboards, visualizations, or presentations. My interests are grounded in equity, access, and creating work that has an impact.
 
